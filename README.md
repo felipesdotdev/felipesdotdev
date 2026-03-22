@@ -7,8 +7,8 @@
 
 <p>
   <a href="https://felipes.dev"><img src="https://img.shields.io/badge/felipes.dev-%23000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-  <a href="https://x.com/felipesdotdev"><img src="https://img.shields.io/badge/x.com-%23000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
-  <a href="mailto:contato@felipes.dev"><img src="https://img.shields.io/badge/email-%23000000?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/felipesdev"><img src="https://img.shields.io/badge/x.com-%23000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
+  <a href="mailto:luisfelipe.rs08x@gmail.com"><img src="https://img.shields.io/badge/email-%23000000?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=felipesdotdev&color=000000&style=flat-square&label=views"/>
 </p>
 
@@ -18,7 +18,7 @@
 
 ```ts
 const luis_felipe = {
-  age       : 17,
+  age       : 18,
   location  : "Piracicaba, SP 🇧🇷",
   education : "IFSP Câmpus Piracicaba",
   building  : ["run10k", "incode", "blink-whatsapp"],
